@@ -1,0 +1,40 @@
+body{
+    width: 1440px;
+    background-color:rgb(211, 230, 248);
+    font-family: 'Outfit', sans-serif;
+    
+}
+rect{
+    fill: white;
+    margin:auto;
+    position: relative;
+    
+
+}
+img{
+    width: 220px;
+    position:absolute;
+    left:542px;
+    top:140px;
+    border-radius: 5%;
+  
+}
+.heading{
+    position: absolute;
+    width:18%;
+    text-align: center;
+    border-bottom-width: 500px;
+    top:350px;
+    right:505px;
+    padding-top: 10px;
+}
+.para{
+    position: absolute;
+    font-size: 15px;
+    width:18%;
+    text-align: center;
+    border-bottom-width: 500px;
+    top:420px;
+    right:505px;
+    color:rgb(153, 151, 151)
+}
